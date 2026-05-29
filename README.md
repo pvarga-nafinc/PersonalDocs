@@ -9,4 +9,5 @@
 - [BV Wiki MCP Servers](https://dev.azure.com/NAF-Tech/Bankerview/_wiki/wikis/Bankerview.wiki/34189/MCP-Servers)
 - [NAFTech Integration Automation](https://dev.azure.com/NAF-Tech/NAFTechQATestAutomation/_git/NafTech.Integration.TestAutomation)
 - [NAFTech UI Automation](https://dev.azure.com/NAF-Tech/LenderLink.Web/_git/NAFTech.NAFLink.UITestAutomation)
+- [M$ Training: AI](https://learn.microsoft.com/en-us/training/browse/?products=github)
 - 
