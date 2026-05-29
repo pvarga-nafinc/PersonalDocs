@@ -10,4 +10,4 @@
 - [NAFTech Integration Automation](https://dev.azure.com/NAF-Tech/NAFTechQATestAutomation/_git/NafTech.Integration.TestAutomation)
 - [NAFTech UI Automation](https://dev.azure.com/NAF-Tech/LenderLink.Web/_git/NAFTech.NAFLink.UITestAutomation)
 - [M$ Training: AI](https://learn.microsoft.com/en-us/training/browse/?products=github)
-- 
+- [Copilot Agent Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills)
