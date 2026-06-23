@@ -11,5 +11,7 @@
 - [NAFTech UI Automation](https://dev.azure.com/NAF-Tech/LenderLink.Web/_git/NAFTech.NAFLink.UITestAutomation)
 - [M$ Training: AI](https://learn.microsoft.com/en-us/training/browse/?products=github)
 - [Copilot Agent Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills)
-- []()
+- [NAF AI : ADO Work Item Assistant](https://newamericanfunding.workvivo.us/spaces/14867/pages/86095)
+- [Cursor (MCP)](https://cursor.com/docs/mcp)
+- [MS: Agent Skills](https://learn.microsoft.com/en-us/agent-framework/agents/skills?pivots=programming-language-csharp)
 - []()
