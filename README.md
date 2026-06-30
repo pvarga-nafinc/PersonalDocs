@@ -25,3 +25,6 @@
 - [Cursor Directory](https://cursor.directory/)
 - [Spec-Kit](https://github.com/github/spec-kit)
 - [CoPilot-TeamMetrics](https://copilot.ll.nafinc.com/)
+- [GitHub CoPilot Training](https://dev.azure.com/NAF-Tech/Bankerview/_wiki/wikis/Bankerview.wiki/34198/GitHub-Copilot-Training)
+- [Cursor: MCP](https://cursor.com/docs/mcp)
+- [Agent Skills (C#)](https://learn.microsoft.com/en-us/agent-framework/agents/skills?pivots=programming-language-csharp)
